@@ -12,7 +12,7 @@ This profile is a bridge between the foundational past and the autonomous future
 
 *A comprehensive map of how we built the future.*
 
-1. **[The-Why-It-Mattered-Rule](https://github.com/geekdad1138/The-Why-It-Mattered-Rule)** — **The Premise.** If these moments never happened, what would we lack today? Zero jargon, just causality.
+1. **[The-Why-It-Mattered-Rule](https://www.google.com/search?q=https://github.com/geekdad1138/The-Why-It-Mattered-Rule)** — **The Premise.** From the 6502 to the Transformer: if these moments never happened, what would we lack today?
 2. **[The-First-Clicks](https://github.com/geekdad1138/The-First-Clicks)** — **The Blueprints.** Documenting the papers and milestones that made modern computing inevitable.
 3. **[Standing-On-The-Shoulders](https://github.com/geekdad1138/Standing-On-The-Shoulders)** — **The Lineage.** A dependency graph of thought—mapping how one idea birthed the next.
 4. **[The-Button-Pressers](https://github.com/geekdad1138/The-Button-Pressers)** — **The Humans.** The stories of the gamers, introverts, and rebels who accidentally built the world.
