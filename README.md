@@ -12,11 +12,11 @@ This profile is a bridge between the foundational past and the autonomous future
 
 *A comprehensive map of how we built the future.*
 
-1. **[The-Why-It-Mattered-Rule](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/The-Why-It-Mattered-Rule)** — **The Premise.** If these moments never happened, what would we lack today? Zero jargon, just causality.
-2. **[The-First-Clicks](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/The-First-Clicks)** — **The Blueprints.** Documenting the papers and milestones that made modern computing inevitable.
-3. **[Standing-On-The-Shoulders](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Standing-On-The-Shoulders)** — **The Lineage.** A dependency graph of thought—mapping how one idea birthed the next.
-4. **[The-Button-Pressers](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/The-Button-Pressers)** — **The Humans.** The stories of the gamers, introverts, and rebels who accidentally built the world.
-5. **[Letters](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Letters)** — **The Gratitude.** Personal reflections and "thank you" notes to the pioneers who shaped my journey.
+1. **[The-Why-It-Mattered-Rule](https://github.com/geekdad1138/The-Why-It-Mattered-Rule)** — **The Premise.** If these moments never happened, what would we lack today? Zero jargon, just causality.
+2. **[The-First-Clicks](https://github.com/geekdad1138/The-First-Clicks)** — **The Blueprints.** Documenting the papers and milestones that made modern computing inevitable.
+3. **[Standing-On-The-Shoulders](https://github.com/geekdad1138/Standing-On-The-Shoulders)** — **The Lineage.** A dependency graph of thought—mapping how one idea birthed the next.
+4. **[The-Button-Pressers](https://github.com/geekdad1138/The-Button-Pressers)** — **The Humans.** The stories of the gamers, introverts, and rebels who accidentally built the world.
+5. **[Letters](https://github.com/geekdad1138/Letters)** — **The Gratitude.** Personal reflections and "thank you" notes to the pioneers who shaped my journey.
 
 ---
 
@@ -24,10 +24,10 @@ This profile is a bridge between the foundational past and the autonomous future
 
 *Pushing the boundaries of reasoning, data, and empathy.*
 
-* **[Promptly-Esoteric](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Promptly-Esoteric)**: Testing the limits of AI reasoning by conquering Esolangs like Malbolge and Piet through agentic loops.
-* **[Vaughn](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Vaughn)**: The Virtual Adaptive Understanding & Growth Hub Network.
-* **[Empathy-Engine](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Empathy-Engine)**: AI architected to sense and respond to human emotion with nuance and context.
-* **[sparse](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/sparse)**: A lightweight library for bridging the gap between raw text and actionable data.
+* **[Promptly-Esoteric](https://github.com/geekdad1138/Promptly-Esoteric)**: Testing the limits of AI reasoning by conquering Esolangs like Malbolge and Piet through agentic loops.
+* **[Vaughn](https://github.com/geekdad1138/Vaughn)**: The Virtual Adaptive Understanding & Growth Hub Network.
+* **[Empathy-Engine](https://github.com/geekdad1138/Empathy-Engine)**: AI architected to sense and respond to human emotion with nuance and context.
+* **[sparse](https://github.com/geekdad1138/sparse)**: A lightweight library for bridging the gap between raw text and actionable data.
 
 ---
 
