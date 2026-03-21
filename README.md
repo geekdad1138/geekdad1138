@@ -25,8 +25,6 @@ This profile is a bridge between the foundational past and the autonomous future
 *Pushing the boundaries of reasoning, data, and empathy.*
 
 * **[Promptly-Esoteric](https://github.com/geekdad1138/Promptly-Esoteric)**: Testing the limits of AI reasoning by conquering Esolangs like Malbolge and Piet through agentic loops.
-* **[Vaughn](https://github.com/geekdad1138/Vaughn)**: The Virtual Adaptive Understanding & Growth Hub Network.
-* **[Empathy-Engine](https://github.com/geekdad1138/Empathy-Engine)**: AI architected to sense and respond to human emotion with nuance and context.
 * **[sparse](https://github.com/geekdad1138/sparse)**: A lightweight library for bridging the gap between raw text and actionable data.
 
 ---
